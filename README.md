@@ -1,3 +1,5 @@
 #   dynamic array
-# use data structure link list
-# ratchanonth plumanut
+
+use data structure link list 
+programming language javascript
+ratchanonth plumanut
